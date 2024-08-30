@@ -1,0 +1,2 @@
+Hello world
+This is a new line with write and append mode 

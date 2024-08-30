@@ -1,0 +1,5 @@
+Hello World!
+this is a new line. with write mode that will overwirte all previous data from the file.Append operation taking place! in a text file
+First line in list 
+Second line list
+Third line list to append into a text file
